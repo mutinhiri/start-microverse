@@ -1,19 +1,24 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello Microverse
-
-> This is a simple hello Microverse starter project
-
-![screenshot](./app_screenshot.png)
-
-
+# Microverse Start Project
+>This first microverse start project introduces the use of linter configurations for checking errors
+>My first project will isplay a hello microverse on the start page
 ## Built With
 
 - HTML5
 - CSS3
 
 ### Usage
- - Feel free to add reviews on any changes necessary in this project
+ - to get a local copy up and running follow these simple example steps.
+
+- Open terminal
+
+- Clone this project by the command `git clone https://github.com/mutinhiri/start-project`
+
+- `Cd feature` folder
+
+- Open `index.html` in your local browser or using Live Server in Visual Studio Code.
+
 
 ## Authors
 
