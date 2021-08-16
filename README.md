@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Microverse Start Project
->This first microverse start project introduces the use of linter configurations for checking errors
->My first project will isplay a hello microverse on the start page
+>This first microverse start project introduces the use of linter configurations for checking errors.
+>My first project will display a hello microverse on the start page
 ## Built With
 
 - HTML5
